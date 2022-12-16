@@ -1,5 +1,5 @@
 # port-scanning
-these these use the socket.socket() object to connect to a designated IP address at a designated port, returning statements that suggest the port is 
+these use the socket.socket() object to connect to a designated IP address at a designated port, returning statements that suggest the port is 
 open, or closed.
 # mpscan
 this program makes use of the threading class in python, using multiple threads to scan ports making for a faster scanning speed for multiple port scanning
